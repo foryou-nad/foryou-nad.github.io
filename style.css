@@ -1,0 +1,36 @@
+#page-1 h1 {
+  max-width: 80%;
+}
+
+.parent-center {
+  display: flex;
+  flex-direction: column; /* align items vertically */
+  justify-content: center; /* horizontally center */
+  align-items: center; /* vertically center */
+  text-align: center;
+}
+
+.snap {
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+}
+
+
+@keyframes slideIn {
+  0% { opacity: 0; transform: translateY(-50px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideOut {
+  0% { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(-50px); }
+}
+
+.animate-on-scroll {
+  animation: slideIn 1s ease-in-out; /* Apply the animation */
+}
+
+
+#hide-first {
+  opacity: 0;
+}
