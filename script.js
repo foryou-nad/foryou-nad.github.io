@@ -6,7 +6,7 @@ const expand = $(".expand")
 const ad1_pg1 = $("#page-1 .expand")
 
 ad1_pg1.on("click", () => {
-  clearText("I made this website specifically for you", "#page-1 h1.normal")
+  clearText("I made this website specifically for you :)", "#page-1 h1.normal")
 })
 
 function clearText(t,q) {
