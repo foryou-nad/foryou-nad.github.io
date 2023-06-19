@@ -8,7 +8,7 @@ let heading = $("#page-1 h1.normal")
 const dialogues = [
 "I made this website specifically for ya :)",
 "But i still dont know what to put in here :(",
-"so for now im gonna show you this with no context at all",
+"so for now im gonna show you this cat with no context"
   ]
 
 let currentDialogue = 0
