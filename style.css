@@ -34,6 +34,15 @@
   100% { opacity: 0; transform: translateY(-50px); }
 }
 
+@keyframes changeBg {
+  0% {
+    background-color: #73A9AD;
+  }
+  100% {
+    background-color: #B3C890;
+  }
+}
+
 .animate-on-scroll {
   animation: slideIn 1s ease-in-out; /* Apply the animation */
 }
