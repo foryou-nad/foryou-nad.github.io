@@ -8,6 +8,7 @@ let heading = $("#page-1 h1.normal")
 const dialogues = [
 "I made this website specifically for ya :)",
 "But i still dont know what to put in here :(",
+"so for now im gonna show you this with no context at all",
   ]
 
 let currentDialogue = 0
@@ -33,6 +34,11 @@ ad1_pg1.on("click", () => {
 
       $("#page-1").css({"animation": "1s changeBg ease-in-out"})
       $("#page-1").css({"background-color": "#B3C890"})
+
+      $("#page-1").append(`
+            <img src="https://media.tenor.com/arqlNu8gyJYAAAAM/cat-cat-jumping.gif" alt="">
+        `)
+      $("#hide-first img").css({"animation": "1s slideIn"})
 
     } 
   } else {
