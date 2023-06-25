@@ -26,3 +26,31 @@ To me, it wasnt enough, i never ever experience loving, true loving except from 
 
 but one, girl is enough. I  know it sounds very weird but trust me, what i meant is someone close to me very very very very very close, close enough to even know my family dramas and problems.
 close enough to talk to each other 24/7, and one more time like i said, thats the main reason im trying to get closer to her.
+
+
+i lose her now, i regret it, If it ends like this, i should've just reject the offer, or maybe accept it but not trying to get closer to her. FUCK NGENTOT ANJING  KONTOLL TOLOL BANGET GW
+
+IIm such  a dumbass, fuck i dont even know how to xpres this, i dont fucking  now how
+
+
+
+Now im here, all alone, with no one except my friends on my side, but no more crazy conversations, i miss her very much im being honest, but now im just a clown, hoping that there'll be hope, even though thats probably not possible, but who knows?, maybe god says otherwise, maybe god is helping me but on another way, i dont know, god works on mysterious ways. Allahuakbar, but thanks to god, im nowhere near zina, but still, i feel very very lonely, i dont even know how to tell you how lonely i am.
+
+
+Im lonely
+Im lonely
+Im lonely
+Im lonely
+Im lonely
+Im lonely
+Im lonely
+Im lonely
+Im lonely
+Im lonely
+Im lonely
+Im lonely
+Im lonely
+Im lonely
+Im lonely
+Im lonely
+help
