@@ -15,3 +15,5 @@ Sometimes i think that she's just using me because she got nobody to talk to at 
 
 And hey to somebody who reads all these shit and come to the conclusion, thanks for listening or maybe reading?, idk, but thanks. We can have a conversation together at whatsapp if you wanted to.
 
+
+[Next](https://github.com/foryou-nad/foryou-nad.github.io/blob/dont-open/README2.md)
