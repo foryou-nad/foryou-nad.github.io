@@ -9,7 +9,7 @@ If anybody read this, please i just need someone to talk to and express my feeli
 But of course, me being my fucking self, i did dumb things, and didnt even have the courage to talk or even look at her, and i cant even find a topic to keep our whatsapp conversation longer, cant even build the courage to talk to her even on whatsapp (sometimes), its all my fault. They say that its nobody's fault when it comes to loving, but in this case, its so obvious that its my fault, its my fault that we're now seeing each other as strangers, its my fault that we rarely talks to each other and its my fault we didnt have that conversation that lasts hours, its my fault that she didnt like me, its my fault that she hates me, its my fault that she wont talk to me again.
 
 
-Its my fault, dont you dare say that its nobody's fault because the answer is so fucking obvious, all those shitty conversations, gone. No more "morning", "goodnight" or even "hi". FUCK FUUCK FUUCK, she said that she'll always be here for me, but the truth is, im the onee that made her forgot about that promise, im the one that made he break it, break the promise we made for each other.
+Its my fault, dont you dare say that its nobody's fault because the answer is so fucking obvious, all those shitty conversations, gone. No more "morning", "goodnight" or even "hi". FUCK FUUCK FUUCK, she said that she'll always be here for me, but the truth is, im the one that made her forgot about that promise, im the one that made her break it, break the promise we made for each other.
 
 Sometimes i think that she's just using me because she got nobody to talk to at the time, but sometimes it's my fault that made her like that. 
 
