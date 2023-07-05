@@ -54,3 +54,5 @@ Im lonely
 Im lonely
 Im lonely
 help
+
+25 june 2023, this is something i called a "wound", but if you forgot about this and the wound heals, i wanted you to remember that you're the one who scarred yourself even though it already heals. 
